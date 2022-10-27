@@ -1,5 +1,1 @@
-### Hi there 👋
-
-<!--
-- ⚡ Keep it up!
--->
+### ⚡ Keep it up!
